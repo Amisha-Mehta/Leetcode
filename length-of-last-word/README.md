@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/length-of-last-word/description/">length-of-last-word</a></h2>
+<h2><a href="https://leetcode.com/problems/length-of-last-word/submissions/2043380476/">length-of-last-word</a></h2>
 
 <p>Given a string <code>s</code> consisting of words and spaces, return <em>the length of the <strong>last</strong> word in the string.</em></p>
 
