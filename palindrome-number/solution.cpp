@@ -8,6 +8,12 @@ public:
             rev=rev*10+ x%10;
             x/=10;
         }
-        return temp==rev;
+        //return (temp==rev);
+        if(temp==rev){
+            return true;
+        }
+        else{
+            return false;
+        }
     }
 };
