@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/reverse-integer/description/">reverse-integer</a></h2>
+<h2><a href="https://leetcode.com/problems/reverse-integer/">reverse-integer</a></h2>
 
 <p>Given a signed 32-bit integer <code>x</code>, return <code>x</code><em> with its digits reversed</em>. If reversing <code>x</code> causes the value to go outside the signed 32-bit integer range <code>[-2<sup>31</sup>, 2<sup>31</sup> - 1]</code>, then return <code>0</code>.</p>
 
