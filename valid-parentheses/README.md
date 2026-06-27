@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/valid-parentheses/description/">valid-parentheses</a></h2>
+<h2><a href="https://leetcode.com/problems/valid-parentheses/submissions/2047844506/">valid-parentheses</a></h2>
 
 <p>Given a string <code>s</code> containing just the characters <code>&#39;(&#39;</code>, <code>&#39;)&#39;</code>, <code>&#39;{&#39;</code>, <code>&#39;}&#39;</code>, <code>&#39;[&#39;</code> and <code>&#39;]&#39;</code>, determine if the input string is valid.</p>
 
