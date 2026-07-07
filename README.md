@@ -4,7 +4,7 @@ Amisha-Mehta
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (3)
+- [Array](#array) (4)
 - [Math](#math) (2)
 - [Stack](#stack) (1)
 - [Simulation](#simulation) (1)
@@ -16,6 +16,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 2. [Max Consecutive Ones](max-consecutive-ones/)
 3. [Concatenation of Array](concatenation-of-array/)
+4. [Shuffle the Array](shuffle-the-array/)
 ## Math
 1. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
 
