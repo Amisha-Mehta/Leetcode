@@ -5,7 +5,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Topics
 - [Array](#array) (1)
-- [Math](#math) (1)
+- [Math](#math) (2)
 - [Stack](#stack) (1)
 
 ---
@@ -16,5 +16,6 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Math
 1. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
 
+2. [Concatenate Non-Zero Digits and Multiply by Sum I](concatenate-non-zero-digits-and-multiply-by-sum-i/)
 ## Stack
 1. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
