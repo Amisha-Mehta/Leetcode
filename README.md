@@ -4,13 +4,14 @@ Amisha-Mehta
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (5)
+- [Array](#array) (6)
 - [Math](#math) (2)
 - [Stack](#stack) (1)
 - [Simulation](#simulation) (1)
-- [Hash Table](#hash-table) (1)
+- [Hash Table](#hash-table) (2)
 - [Bit Manipulation](#bit-manipulation) (1)
-- [Sorting](#sorting) (1)
+- [Sorting](#sorting) (2)
+- [Counting Sort](#counting-sort) (1)
 
 ---
 
@@ -21,6 +22,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 3. [Concatenation of Array](concatenation-of-array/)
 4. [Shuffle the Array](shuffle-the-array/)
 5. [Set Mismatch](set-mismatch/)
+6. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
 ## Math
 1. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
 
@@ -35,8 +37,13 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Hash Table
 1. [Set Mismatch](set-mismatch/)
 
+2. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
 ## Bit Manipulation
 1. [Set Mismatch](set-mismatch/)
 
 ## Sorting
 1. [Set Mismatch](set-mismatch/)
+2. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
+
+## Counting Sort
+1. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
