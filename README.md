@@ -4,10 +4,13 @@ Amisha-Mehta
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (4)
+- [Array](#array) (5)
 - [Math](#math) (2)
 - [Stack](#stack) (1)
 - [Simulation](#simulation) (1)
+- [Hash Table](#hash-table) (1)
+- [Bit Manipulation](#bit-manipulation) (1)
+- [Sorting](#sorting) (1)
 
 ---
 
@@ -17,6 +20,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 2. [Max Consecutive Ones](max-consecutive-ones/)
 3. [Concatenation of Array](concatenation-of-array/)
 4. [Shuffle the Array](shuffle-the-array/)
+5. [Set Mismatch](set-mismatch/)
 ## Math
 1. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
 
@@ -27,3 +31,12 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Simulation
 1. [Concatenation of Array](concatenation-of-array/)
+
+## Hash Table
+1. [Set Mismatch](set-mismatch/)
+
+## Bit Manipulation
+1. [Set Mismatch](set-mismatch/)
+
+## Sorting
+1. [Set Mismatch](set-mismatch/)
