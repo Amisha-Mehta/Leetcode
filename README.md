@@ -12,6 +12,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Bit Manipulation](#bit-manipulation) (1)
 - [Sorting](#sorting) (2)
 - [Counting Sort](#counting-sort) (1)
+- [Enumeration](#enumeration) (1)
 
 ---
 
@@ -49,3 +50,6 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Counting Sort
 1. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
+
+## Enumeration
+1. [Sequential Digits](sequential-digits/)
