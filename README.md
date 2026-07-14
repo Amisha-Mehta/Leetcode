@@ -4,15 +4,16 @@ Amisha-Mehta
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (7)
+- [Array](#array) (8)
 - [Math](#math) (2)
-- [Stack](#stack) (1)
+- [Stack](#stack) (2)
 - [Simulation](#simulation) (1)
-- [Hash Table](#hash-table) (3)
+- [Hash Table](#hash-table) (4)
 - [Bit Manipulation](#bit-manipulation) (1)
 - [Sorting](#sorting) (2)
 - [Counting Sort](#counting-sort) (1)
 - [Enumeration](#enumeration) (1)
+- [Monotonic Stack](#monotonic-stack) (1)
 
 ---
 
@@ -25,6 +26,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 5. [Set Mismatch](set-mismatch/)
 6. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
 7. [Find All Numbers Disappeared in an Array](find-all-numbers-disappeared-in-an-array/)
+8. [Next Greater Element I](next-greater-element-i/)
 ## Math
 1. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
 
@@ -33,6 +35,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 1. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
 
 
+2. [Next Greater Element I](next-greater-element-i/)
 ## Simulation
 1. [Concatenation of Array](concatenation-of-array/)
 
@@ -41,6 +44,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 2. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
 3. [Find All Numbers Disappeared in an Array](find-all-numbers-disappeared-in-an-array/)
+4. [Next Greater Element I](next-greater-element-i/)
 ## Bit Manipulation
 1. [Set Mismatch](set-mismatch/)
 
@@ -53,3 +57,6 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Enumeration
 1. [Sequential Digits](sequential-digits/)
+
+## Monotonic Stack
+1. [Next Greater Element I](next-greater-element-i/)
