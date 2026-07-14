@@ -6,14 +6,15 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Topics
 - [Array](#array) (8)
 - [Math](#math) (2)
-- [Stack](#stack) (2)
-- [Simulation](#simulation) (1)
+- [Stack](#stack) (3)
+- [Simulation](#simulation) (2)
 - [Hash Table](#hash-table) (4)
 - [Bit Manipulation](#bit-manipulation) (1)
 - [Sorting](#sorting) (2)
 - [Counting Sort](#counting-sort) (1)
 - [Enumeration](#enumeration) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
+- [String](#string) (1)
 
 ---
 
@@ -36,9 +37,11 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 
 2. [Next Greater Element I](next-greater-element-i/)
+3. [Clear Digits](clear-digits/)
 ## Simulation
 1. [Concatenation of Array](concatenation-of-array/)
 
+2. [Clear Digits](clear-digits/)
 ## Hash Table
 1. [Set Mismatch](set-mismatch/)
 
@@ -60,3 +63,6 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Monotonic Stack
 1. [Next Greater Element I](next-greater-element-i/)
+
+## String
+1. [Clear Digits](clear-digits/)
