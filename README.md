@@ -5,7 +5,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Topics
 - [Array](#array) (8)
-- [Math](#math) (2)
+- [Math](#math) (3)
 - [Stack](#stack) (3)
 - [Simulation](#simulation) (2)
 - [Hash Table](#hash-table) (4)
@@ -15,6 +15,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Enumeration](#enumeration) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [String](#string) (1)
+- [Number Theory](#number-theory) (1)
 
 ---
 
@@ -32,6 +33,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 1. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
 
 2. [Concatenate Non-Zero Digits and Multiply by Sum I](concatenate-non-zero-digits-and-multiply-by-sum-i/)
+3. [GCD of Odd and Even Sums](gcd-of-odd-and-even-sums/)
 ## Stack
 1. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
 
@@ -66,3 +68,6 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## String
 1. [Clear Digits](clear-digits/)
+
+## Number Theory
+1. [GCD of Odd and Even Sums](gcd-of-odd-and-even-sums/)
