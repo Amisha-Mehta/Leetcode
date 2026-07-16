@@ -4,18 +4,19 @@ Amisha-Mehta
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (8)
-- [Math](#math) (3)
+- [Array](#array) (9)
+- [Math](#math) (4)
 - [Stack](#stack) (3)
-- [Simulation](#simulation) (2)
+- [Simulation](#simulation) (3)
 - [Hash Table](#hash-table) (4)
 - [Bit Manipulation](#bit-manipulation) (1)
-- [Sorting](#sorting) (2)
+- [Sorting](#sorting) (3)
 - [Counting Sort](#counting-sort) (1)
 - [Enumeration](#enumeration) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [String](#string) (1)
-- [Number Theory](#number-theory) (1)
+- [Number Theory](#number-theory) (2)
+- [Two Pointers](#two-pointers) (1)
 
 ---
 
@@ -29,11 +30,13 @@ A topic-wise index of the solution folders in this repository. Some problems app
 6. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
 7. [Find All Numbers Disappeared in an Array](find-all-numbers-disappeared-in-an-array/)
 8. [Next Greater Element I](next-greater-element-i/)
+9. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
 ## Math
 1. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
 
 2. [Concatenate Non-Zero Digits and Multiply by Sum I](concatenate-non-zero-digits-and-multiply-by-sum-i/)
 3. [GCD of Odd and Even Sums](gcd-of-odd-and-even-sums/)
+4. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
 ## Stack
 1. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
 
@@ -44,6 +47,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 1. [Concatenation of Array](concatenation-of-array/)
 
 2. [Clear Digits](clear-digits/)
+3. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
 ## Hash Table
 1. [Set Mismatch](set-mismatch/)
 
@@ -57,6 +61,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 1. [Set Mismatch](set-mismatch/)
 2. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
 
+3. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
 ## Counting Sort
 1. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
 
@@ -71,3 +76,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Number Theory
 1. [GCD of Odd and Even Sums](gcd-of-odd-and-even-sums/)
+
+2. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
+## Two Pointers
+1. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
