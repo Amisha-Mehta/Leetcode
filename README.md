@@ -8,15 +8,17 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Math](#math) (4)
 - [Stack](#stack) (3)
 - [Simulation](#simulation) (3)
-- [Hash Table](#hash-table) (4)
+- [Hash Table](#hash-table) (5)
 - [Bit Manipulation](#bit-manipulation) (1)
 - [Sorting](#sorting) (3)
 - [Counting Sort](#counting-sort) (1)
 - [Enumeration](#enumeration) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
-- [String](#string) (1)
+- [String](#string) (2)
 - [Number Theory](#number-theory) (2)
 - [Two Pointers](#two-pointers) (1)
+- [Queue](#queue) (1)
+- [Counting](#counting) (1)
 
 ---
 
@@ -54,6 +56,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 2. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
 3. [Find All Numbers Disappeared in an Array](find-all-numbers-disappeared-in-an-array/)
 4. [Next Greater Element I](next-greater-element-i/)
+5. [First Unique Character in a String](first-unique-character-in-a-string/)
 ## Bit Manipulation
 1. [Set Mismatch](set-mismatch/)
 
@@ -74,9 +77,16 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## String
 1. [Clear Digits](clear-digits/)
 
+2. [First Unique Character in a String](first-unique-character-in-a-string/)
 ## Number Theory
 1. [GCD of Odd and Even Sums](gcd-of-odd-and-even-sums/)
 
 2. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
 ## Two Pointers
 1. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
+
+## Queue
+1. [First Unique Character in a String](first-unique-character-in-a-string/)
+
+## Counting
+1. [First Unique Character in a String](first-unique-character-in-a-string/)
