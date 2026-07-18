@@ -4,8 +4,8 @@ Amisha-Mehta
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (9)
-- [Math](#math) (4)
+- [Array](#array) (10)
+- [Math](#math) (5)
 - [Stack](#stack) (3)
 - [Simulation](#simulation) (3)
 - [Hash Table](#hash-table) (5)
@@ -15,7 +15,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Enumeration](#enumeration) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [String](#string) (2)
-- [Number Theory](#number-theory) (2)
+- [Number Theory](#number-theory) (3)
 - [Two Pointers](#two-pointers) (1)
 - [Queue](#queue) (1)
 - [Counting](#counting) (1)
@@ -33,12 +33,14 @@ A topic-wise index of the solution folders in this repository. Some problems app
 7. [Find All Numbers Disappeared in an Array](find-all-numbers-disappeared-in-an-array/)
 8. [Next Greater Element I](next-greater-element-i/)
 9. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
+10. [Find Greatest Common Divisor of Array](find-greatest-common-divisor-of-array/)
 ## Math
 1. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
 
 2. [Concatenate Non-Zero Digits and Multiply by Sum I](concatenate-non-zero-digits-and-multiply-by-sum-i/)
 3. [GCD of Odd and Even Sums](gcd-of-odd-and-even-sums/)
 4. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
+5. [Find Greatest Common Divisor of Array](find-greatest-common-divisor-of-array/)
 ## Stack
 1. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
 
@@ -82,6 +84,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 1. [GCD of Odd and Even Sums](gcd-of-odd-and-even-sums/)
 
 2. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
+3. [Find Greatest Common Divisor of Array](find-greatest-common-divisor-of-array/)
 ## Two Pointers
 1. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
 
